@@ -54,6 +54,7 @@ section{
     padding: 5px;
     background-color: #ff6666;
     color: white;
+    border:  1px solid #000;
     
 }
 
@@ -63,6 +64,7 @@ section{
     padding: 5px;
     background-color: #9a4c4c;
     color: white;
+    border:  1px solid #000;
     
 }
 
@@ -72,6 +74,7 @@ section{
     padding: 5px;
     background-color: #ffb466;
     color: white;
+    border:  1px solid #000;
     
 }
 
