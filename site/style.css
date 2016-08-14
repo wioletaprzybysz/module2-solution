@@ -51,7 +51,6 @@ section{
 #chicken{
     width: 30%;
     margin-left: 70%;
-    padding: 5px;
     background-color: #ff6666;
     color: white;
     border:  1px solid #000;
@@ -61,7 +60,6 @@ section{
 #beef{
     width: 30%;
     margin-left: 70%;
-    padding: 5px;
     background-color: #9a4c4c;
     color: white;
     border:  1px solid #000;
@@ -71,7 +69,6 @@ section{
 #sushi{
     width: 30%;
     margin-left: 70%;
-    padding: 5px;
     background-color: #ffb466;
     color: white;
     border:  1px solid #000;
